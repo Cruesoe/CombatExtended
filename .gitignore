@@ -27,3 +27,5 @@ UnityEngine.dll
 __pycache__
 ModPatches/*/Assemblies/
 .vs/
+AGENTS.md
+CLAUDE.md
